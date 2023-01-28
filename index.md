@@ -1,15 +1,15 @@
-## Objective:
+**Objective:**
 Attain more skills on virtualization and aim to be able to automate end to end to make customers life easier.
 
-## Qualification:
+Qualification:
 •	Master of computer application from NMAMIT, VTU 2009
-## Professional Training & Certification
+**Professional Training & Certification**
 •	VMware vSphere 6.7 Foundations  score 389
 •	VMware Certified Professional - Network Virtualization score 480
 •	Certified kubernetes Administrator – Score 81
 
 
-## Skillset/Technologies/Language:
+**Skillset/Technologies/Language:**
 VMware vRealize Orchestrator v8.6
 VMWare vRealize Automation v8.6
 VMWare NSX-T v3.1
@@ -21,13 +21,13 @@ RHEL v8, v8.2
 Centos v7.9
 CKA(Certified Kubernetes Administrator)
 
-# Current Role:
-## System/Software Engineer 5b, 
+**Current Role:**
+_System/Software Engineer 5b, _
 •	Automating infrastructure deployment for customer requirement through POC and use case development. 
 •	Presentation of POC to relevant customers
 •	Whitepaper documentation of unique solutions.
 
-# Hewlett Packard Enterprises (Oct-2009 to Current) 
+**Hewlett Packard Enterprises (Oct-2009 to Current)**
 •	Working in presales for 7+ years in HPE, prior in platform modernization and HPE IUM tools.
 •	Understanding customer requirements and aid in automation solution.
 •	PowerShell automation script for customer to upgrade Mellanox drivers across 2000 ESXi host
@@ -49,7 +49,7 @@ o	Re-hosting of application from Mainframe environment to LINUX
 o	Application transition from Solaris operating system to Windows and UNIX operating system.
 o	Internship: Integrate Silverlight technology with C# using WCF and LINQ to SQL to develop user interface which on hover shows storage facility data – used RFID tagging.
 
-### Prominent Project Recognized by Management and Customers
+**Prominent Project Recognized by Management and Customers**
 •	Baremetal Service: 
 Creating automated end to end server provisioning solution – across datacenter (For RHEL/ESXi attaching storage volumes (across datacenter), patching ESXi OS, and firmware). Responsible for team operations by working on user stories such as new features, enhancement, bug fixes, environment version upgrade, patch update.  
 
